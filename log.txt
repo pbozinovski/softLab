@@ -1,0 +1,10 @@
+Author: bozhinovski.petar@students.finki.ukim.mk <bozhinovski.petar@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:51:39 2018 +0100
+
+    modify l1.txt
+
+commit 424bbb46600d24c58336a79d7e204cbe2ba5b44c
+Author: bozhinovski.petar@students.finki.ukim.mk <bozhinovski.petar@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:49:06 2018 +0100
+
+    Initial commit
