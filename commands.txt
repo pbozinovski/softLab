@@ -1,0 +1,26 @@
+
+	mkdir lab1 -> cd lab1 -> gitinit
+	
+	cd lab1 -> touch l1.txt
+
+	git add l1.txt -> git commit -m "inital commit"
+
+	git add l1.txt -> git commit -m "modify commit"
+
+	git remote add origin https://github.com/pbozinovski/softLab.git
+
+	git push -u origin master
+
+	git reset HEAD l1.txt
+
+	git branch logging
+	
+	git checkout logging -> touch log.txt
+
+	git add log.txt -> git commit -m "Adding log.txt to logging branch" -> git push origin logging
+
+	git checkout master -> git merge logging
+
+	git checkout master -> git branch allcommands
+	
+	git checkout allcommands -> touch commands.txt
